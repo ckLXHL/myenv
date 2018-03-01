@@ -1,2 +1,2 @@
-./*.sh
-!./init_build.sh
+*.sh
+!init_build.sh
